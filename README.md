@@ -1,4 +1,4 @@
-# STUDY
+# AWS STUDY
 # 1. API 란
 
 ## API의 개념
