@@ -11,7 +11,8 @@
 
 
 ### REST(Representational State Transfer)
-- REST는 네트워크를 통하여 컴퓨터들 간의 통신을 지원하는 아키텍쳐 스타일로써 이러한 REST 아키텍쳐의 제약 조건을 준수하는 API를 RESTful API라고 한다.
+- REST는 네트워크를 통하여 컴퓨터들 간의 통신을 지원하는 아키텍쳐 스타일
+- REST 아키텍쳐의 제약 조건을 준수하는 API를 RESTful API라고 한다.
 - RESTful API는 HTTP 프로토콜을 기반으로 하며 데이터 포멧으로는 JSON을 주로 사용한다.
 - RESTful API 구조는 REST 구조에서의 리소스는 그들 의 고유한 URI를 가지게 된다.
 - RESTful API는 HTTP의 기본 메소드인 GET/PUT/POST/DELETE만으로 접근할 수 있다. 
